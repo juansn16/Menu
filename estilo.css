@@ -1,0 +1,35 @@
+* {
+    background-color: #f0f0f0f0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1, h4, .precio{
+    color: #ecab0f;
+}
+
+p, .Añadir {
+    color: #FFF;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.divisor {
+    background-color: #ecab0f;
+    border-radius: 30px;
+    margin: 0 auto;
+    width: 15%;
+    height: 5px;
+}
+
+.titulo {
+    text-align: center; 
+    margin-top: 50px; 
+}
+
+h4 {
+    text-align: center; 
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
